@@ -1,0 +1,18 @@
+{
+    "game": {
+        "gameQuest": {
+            "title": "test title",
+            "intro": "test intro",
+            "author": "test author"
+        }
+    },
+    "gameStation": {
+        "id":6,
+        "text":"new game text",
+        "choices":[{
+            "text": "test choice 1"
+        },{
+            "text": "test choice 2"
+        }]
+    }
+}
